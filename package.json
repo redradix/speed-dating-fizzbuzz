@@ -1,0 +1,22 @@
+{
+  "name": "fizbuzz",
+  "version": "1.0.0",
+  "description": "The objetive as simple as writing a function that recives an integer `n` and return an array from `1` to `n` where:",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "jest ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redradix/adalab-speed-dating.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redradix/adalab-speed-dating/issues"
+  },
+  "homepage": "https://github.com/redradix/adalab-speed-dating#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
